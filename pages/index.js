@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <div>
-      <h1>E ao primo eu estou fazendo o curso do Filipe Deschamps</h1>
-      <h3>Assim que eu terminar é a sua vez de passar por essa jornada!</h3>
-    </div>
-  );
+  return <h1>Pagina desenvolvida no curso.dev do Filipe Deschamps</h1>;
 }
 
 export default Home;
