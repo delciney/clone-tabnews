@@ -22,12 +22,20 @@ A versão desenvolvida durante o acompanhamento do curso pode ser acessada pelos
 
 ## Instalação e execução da aplicação
 
-Para instalar os pacotes execute o comando `npm i`
+Para instalar os pacotes execute o comando
 
-Para executar a aplicação no ambiente local execute o comando `npm run dev`
+`npm i`
+
+Para executar a aplicação no ambiente local execute o comando
+
+`npm run dev`
 
 ## Execução dos testes
 
-Para rodar os testes somente uma vez execute o comando `npm run test`
+Para rodar os testes somente uma vez execute o comando
 
-Para rodar os testes de forma assistida execute o comando `npm run test:watch`
+`npm run test`
+
+Para rodar os testes de forma assistida execute o comando
+
+`npm run test:watch`
