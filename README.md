@@ -12,14 +12,14 @@ A versão desenvolvida durante o acompanhamento do curso pode ser acessada pelos
 
 ## Tecnologias utilizadas
 
-| Nome     | Versão  |
-| -------- | :-----: |
-| npm      | 10.8.2  |
-| node     | 20.18.1 |
-| next     | 13.1.6  |
-| react    | 18.2.0  |
-| jest     | 29.6.2  |
-| postgres |  16.0   |
+| Nome     |     Versão      |
+| -------- | :-------------: |
+| npm      |     10.8.2      |
+| node     |     20.18.1     |
+| next     |     13.1.6      |
+| react    |     18.2.0      |
+| jest     |     29.6.2      |
+| postgres | 16.8-alpine3.21 |
 
 ## Instalação e execução da aplicação
 
@@ -27,7 +27,7 @@ Para instalar os pacotes execute o comando
 
 `npm i`
 
-Para executar a aplicação no ambiente local execute o comando
+Para subir a aplicação no ambiente local execute o comando
 
 `npm run dev`
 
