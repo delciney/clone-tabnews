@@ -12,13 +12,14 @@ A versão desenvolvida durante o acompanhamento do curso pode ser acessada pelos
 
 ## Tecnologias utilizadas
 
-| Nome  | Versão  |
-| ----- | :-----: |
-| npm   | 10.8.2  |
-| node  | 20.18.1 |
-| next  | 13.1.6  |
-| react | 18.2.0  |
-| jest  | 29.6.2  |
+| Nome     | Versão  |
+| -------- | :-----: |
+| npm      | 10.8.2  |
+| node     | 20.18.1 |
+| next     | 13.1.6  |
+| react    | 18.2.0  |
+| jest     | 29.6.2  |
+| postgres |  16.0   |
 
 ## Instalação e execução da aplicação
 
