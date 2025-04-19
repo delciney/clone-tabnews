@@ -4,13 +4,13 @@
   "description": "Implementação do https://www.tabnews.com.br desenvolvida com as aulas do https://curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run services:up && next dev",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
     "test": "jest",
     "test:watch": "jest --watchAll",
-    "docker:up": "docker compose -f infra/compose.yaml up -d",
-    "docker:down": "docker compose -f infra/compose.yaml down"
+    "services:up": "docker compose -f infra/compose.yaml up -d",
+    "services:down": "docker compose -f infra/compose.yaml down"
   },
   "author": "",
   "license": "MIT",
