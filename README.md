@@ -27,6 +27,16 @@ Para instalar os pacotes execute o comando
 
 `npm i`
 
+Antes de executar a aplicação deve ser alterado o arquivo `.env` na raiz do projeto com as informações de conexão com seu bando de dados Postgres
+
+```
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_USER=local_user
+POSTGRES_DB=local_db
+POSTGRES_PASSWORD=local_password
+```
+
 Para subir a aplicação no ambiente local execute o comando
 
 `npm run dev`
