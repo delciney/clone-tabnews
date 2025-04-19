@@ -1,6 +1,6 @@
 # clone-tabnews
 
-Implementação do [tabnews.com.br](https://www.tabnews.com.br) desenvolvido com as aulas do [curso.dev](https://curso.dev)
+Implementação do [tabnews.com.br](https://www.tabnews.com.br) desenvolvida com as aulas do [curso.dev](https://curso.dev)
 
 ## Publicação
 
