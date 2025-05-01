@@ -8,7 +8,7 @@ beforeAll(async () => {
   );
 });
 
-test("Post to /api/v1/migrations should return status 200", async () => {
+test("Post to /api/v1/migrations should return status 201", async () => {
   const response1 = await fetch("http://localhost:3000/api/v1/migrations", {
     method: "POST",
   });
