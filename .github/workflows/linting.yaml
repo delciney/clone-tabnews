@@ -30,7 +30,7 @@ jobs:
 
       - run: npm run lint:eslint:check
   commitlint:
-    name: commitlint
+    name: Commit Lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
