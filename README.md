@@ -43,7 +43,7 @@ Para subir a aplicação no ambiente local execute o comando
 
 ## Execução dos testes
 
-Para rodar os testes somente uma vez execute o comando
+Para rodar os testes execute o comando
 
 `npm run test`
 
