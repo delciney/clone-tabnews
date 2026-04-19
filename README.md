@@ -14,8 +14,8 @@ A versão desenvolvida durante o acompanhamento do curso pode ser acessada pelos
 
 | Nome     |     Versão      |
 | -------- | :-------------: |
-| node     |     24.x        |
-| next     |    15.5.15      |
+| node     |      24.x       |
+| next     |     15.5.15     |
 | react    |     19.1.0      |
 | jest     |     29.7.0      |
 | postgres | 16.8-alpine3.21 |
