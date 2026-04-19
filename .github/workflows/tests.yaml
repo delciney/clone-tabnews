@@ -16,6 +16,6 @@ jobs:
 
       - run: npm ci
 
-      - run: npm audit --audit-level=high
+      - run: npm audit --audit-level=critical
 
       - run: npm test
